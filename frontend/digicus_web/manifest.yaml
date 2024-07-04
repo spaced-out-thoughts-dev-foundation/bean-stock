@@ -1,0 +1,5 @@
+name: digicus_web
+type: backend
+version: 0.0.1
+description: Frontend for Digicus IDE web application
+command: make run FILEPATH
