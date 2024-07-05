@@ -1,0 +1,13 @@
+# .github/workflows/make.yml
+
+name: Update Submodules
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Run Make Command
+        run: make update
