@@ -4,3 +4,6 @@
 [submodule "frontend/soroban_rust_frontend"]
 	path = frontend/soroban_rust_frontend
 	url = https://github.com/spaced-out-thoughts-dev-foundation/soroban_rust_frontend.git
+[submodule "backend/soroban_rust_backend"]
+	path = backend/soroban_rust_backend
+	url = https://github.com/spaced-out-thoughts-dev-foundation/soroban_rust_backend.git
