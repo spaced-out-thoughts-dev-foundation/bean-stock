@@ -18,8 +18,8 @@ jobs:
           git config --global user.name "GitHub Actions"
           git remote set-url origin "https://github.com/${GITHUB_REPOSITORY}.git"
         env:
-          GH_TOKEN: ${{ secrets.PAT }}
+          GITHUB_TOKEN: ${{ secrets.PAT }}
       - name: Run Make Command
         run: make update
         env:
-          GH_TOKEN: ${{ secrets.PAT }}
+          GITHUB_TOKEN: ${{ secrets.PAT }}
