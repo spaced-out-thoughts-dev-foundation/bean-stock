@@ -7,3 +7,6 @@
 [submodule "backend/soroban_rust_backend"]
 	path = backend/soroban_rust_backend
 	url = https://github.com/spaced-out-thoughts-dev-foundation/soroban_rust_backend.git
+[submodule "frontend/digicus_web_frontend"]
+	path = frontend/digicus_web_frontend
+	url = https://github.com/spaced-out-thoughts-dev-foundation/digicus_web_frontend.git
