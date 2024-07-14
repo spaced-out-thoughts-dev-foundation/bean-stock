@@ -1,6 +1,10 @@
-# bean-stock
+# Bean Stock Compiler Plugin Hub
 
 The _host_ for Digicus compiler plugins ([laid out here in the Digicus specification](https://spaced-out-thoughts-dev-foundation.github.io/digicus/#a-compiler-plugin-framework)). 
+
+<img width="1512" alt="Screenshot 2024-07-14 at 4 56 24 PM" src="https://github.com/user-attachments/assets/967fa053-0f19-4a73-8d44-f1a39e424714">
+
+The above is a screenshot of the frontend hosted from the [digit compiler server](https://api.digicus.dev/).
 
 ### How to Add a New Pod (plugin)
 
